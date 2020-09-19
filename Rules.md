@@ -43,3 +43,54 @@ Filling this formula will cause moderation to see your project. warning – we h
 After submitting your idea is going to await acceptance of 2do.net moderation.
 
 Filling this formula will cause moderation to see your idea. warning – we have a bug: if you send this formula next page will show a preview of your project with a “Submit” button, but your listing is already sent to moderation to publish. If you want to unpublish your project you must delete it (go to “Dashboard” -> “My Challenges”). 
+
+project under public development
+
+
+# Privacy Policy
+Who we are
+2do.net is a public plan for ideas.
+
+2do.net is a project for ideas foundation by user Piotr Putyło. Users publish information on their own, responsibility. Report scams, Intellectual Property thefts, breaking individual agreements and other law violations
+
+.net, terms and conditions, rules
+
+What personal data we collect and why we collect it
+Comments
+When visitors leave comments on the site we collect the data shown in the registration form.
+
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
+Media
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
+Contact forms
+Embedded content from other websites
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+Analytics
+Who we share your data with
+How long we retain your data
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+Where we send your data
+
+Your contact information
+
+Additional information
+
+How we protect your data
+
+What data breach procedures we have in place
+
+What third parties we receive data from
+
+What automated decision making and/or profiling we do with user data
+
+Industry regulatory disclosure requirements
